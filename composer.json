@@ -1,5 +1,5 @@
 {
-  "name": "gerencianet/gerencianet-sdk-php",
+  "name": "smartdog23/gerencianet-sdk-php",
   "description": "GN API SDK PHP",
   "version": "3.0.0",
   "require": {
